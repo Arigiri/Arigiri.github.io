@@ -3,6 +3,8 @@ layout: post
 title: Mở đầu về Machine Learning
 ---
 
+Trong bài viết này chúng ta sẽ tìm hiểu về Machine Learning là gì và một vài ứng dụng của chúng.
+
 ### Tại sao lại cần dùng Machine Learning?
 
 Một vài bài toán cụ thể cần sử dụng Machine Learning
